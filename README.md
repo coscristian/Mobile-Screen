@@ -1,17 +1,4 @@
-# app_demo_cristian
+# First Screen in Flutter
+This is a starting screen with info about Lago Calima.
+<img src="lib/images/lago.jpg" width="250" height="250">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-![Alt text](lib/images/lago.jpg?raw=true "Optional Title" | width=250)
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Mobile-Screen
